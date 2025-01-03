@@ -1,0 +1,2 @@
+Ini adalah contoh penulisan file dalam C++.
+Bagas Ramadhan Sains Data 2C2240006.

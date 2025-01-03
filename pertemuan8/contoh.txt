@@ -1,0 +1,4 @@
+Ini adalah contoh penulisan file dalam C++.
+Menambahkan baris baru ke file.
+Menambahkan baris baru ke file.
+Bagas Ramadhan Sains Data 2C2240006.
